@@ -1,0 +1,2 @@
+These folders are empty to keep the size of the submission slow. 
+The intention is to show the organization of the data.
